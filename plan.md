@@ -8,6 +8,6 @@ For more information, check [BOM.csv](BOM.csv)
 ## Mechanical Clock Plan
 ### Clock Face
 A conceptual design for the clock face itself. 
-![Visual Annotation of Apple Watch Ultra 2 Modular Ultra Face](/assets/plan/conceptual-design.png)
+![A conceptual design for the clock face](/assets/plan/conceptual-design.png)
 
 ---
