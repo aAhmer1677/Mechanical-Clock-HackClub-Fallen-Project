@@ -36,4 +36,14 @@ Motor Box Output - 10T **[Anticlockwise rotation]**
 
 To ensure that my gears themseleves can have depth, and connect in different ways, I will be using the same thickness of MDF, however I will glue multiple gear heads (of the same and different size and teeth) to add depth and allow for some more advanced features.
 
+I will only use spurs, no ints or racks as they are not needed for the functionality of the product.
+
+To make for nicer aesthetics, I will print the numbers seperately to the main frame and later glue them on. I also plan to have two main frames, which hold together the axels, and an outer frame which is the actual body of the clock.
+
+To further improve the aesthetics, I will place the gears symmetrically and add other decorative (non-functional) gears to balance the layout.
+
+For the tubes connecting to the hands of the clocks, it is basically virtually impossible for these to be made of wood. Hence, I will be using brass or other metals to make it work.
+
+Every part of the clock will be left as its original color, except for the hands of the clock, which will be painted (spray painted) black.
+
 ---
