@@ -53,8 +53,10 @@ For assembly steps, follow my instructions inside [```assembly.md```](assembly.m
 ```text
 Mechanical Clock
 ├── .github/
-├── 3d-models/
-|   ├──
+├── 2d-models/
+|   ├── gears/
+|   |    ├──
+|   |    └──
 |   ├──
 |   └──
 ├── assets/
@@ -80,6 +82,7 @@ Mechanical Clock
 |   └── sdkconfig
 ├── .env.example
 ├── .gitignore
+├── assembly.md
 ├── BOM.csv
 ├── LICENSE
 ├── plan.md

@@ -29,7 +29,7 @@ Motor Box Output - 10T **[Anticlockwise rotation]**
 
 *However, in the Minutes one, the 60T and 12T will be attached to each other rather than in series*
 
-**Hours Hand** - ```Minutes Hand``` - 10T - 120T **[Clockwise rotation]**
+**Hours Hand** - ```Minutes Hand``` - 10T - 10T - 120T **[Clockwise rotation]**
 *However, in the Hours one, the 10T and the 120T from the Minutes hand will be connected on the same shaft rather than in series*
 
 ---
