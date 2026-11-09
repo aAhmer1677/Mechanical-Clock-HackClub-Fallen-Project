@@ -8,7 +8,11 @@ For more information, check [BOM.csv](BOM.csv)
 ## Mechanical Clock Plan
 ### Clock Face
 A conceptual design for the clock face itself. 
+
 ![A conceptual design for the clock face](/assets/plan/conceptual-design.png)
+
+### CLock Dimensions
+The clock will be a circle, and it will have a diameter of 334-340mm.
 
 ### The gears
 My requirements for the 3 hands is to have a ratio of 
@@ -21,20 +25,43 @@ I will then base all of my gears off of the seconds hand, because they will be e
 
 For the gear connections, theoretically it will look like as follows.
 
+Note: any two gears in ```[]``` represent one component, stuck back to back.
+
 Motor Box Output - 10T **[Anticlockwise rotation]**
 
 **Seconds Hand** - ```Motor Box Output``` - 10T **[Clockwise rotation]**
 
-**Minutes Hand** - ```Seconds Hand``` - 10T - 60T - 12T - 120T **[Clockwise rotation]**
+**Minutes Hand** - ```Motor Box Output``` - 10T - [30T - 10T] - [40T - 10T] - 50T **[Clockwise rotation]**
 
-*However, in the Minutes one, the 60T and 12T will be attached to each other rather than in series*
-
-**Hours Hand** - ```Minutes Hand``` - 10T - 10T - 120T **[Clockwise rotation]**
-*However, in the Hours one, the 10T and the 120T from the Minutes hand will be connected on the same shaft rather than in series*
+**Hours Hand** - ```Minutes Hand``` - 12T - [30T - 10T] - 48T     **[Clockwise rotation]**
 
 ---
 
-To ensure that my gears themseleves can have depth, and connect in different ways, I will be using the same thickness of MDF, however I will glue multiple gear heads (of the same and different size and teeth) to add depth and allow for some more advanced features.
+### Gear Measurements
+**Diameters**
+- ```10T``` - 30mm
+- ```12T``` - 36mm
+- ```30T``` - 90mm
+- ```40T``` - 120mm
+- ```48T``` - 144mm
+- ```50T``` - 150mm
+
+### No. of Gears Required
+- ```10T``` x12
+- ```12T``` x3 
+- ```30T``` x2
+- ```40T``` x1
+- ```48T``` x1
+- ```50T``` x1
+
+### Visual representation of arrangement
+Note: the circles represent gears of different sizes, with colors representing different layers.
+
+![A conceptual design for the clock face](/assets/plan/drawing.png)
+
+---
+
+To ensure that my gears themseleves can have depth, and connect in different ways, I will be using the same thickness of wood, however I will glue multiple gear heads (of the same and different size and teeth) to add depth and allow for some more advanced features.
 
 I will only use spurs, no ints or racks as they are not needed for the functionality of the product.
 
